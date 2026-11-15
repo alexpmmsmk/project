@@ -1,14 +1,13 @@
 # Análisis y estimación de ventas de videojuegos
 
 **Autor:** Alex Porras Martinez  
-**Primera entrega:** 18/10/2026  
-**Revisión:** 15/11/2026
+**Fecha:** 18/10/2026
 
 ## 1. Idea del proyecto
 
 Para este proyecto he elegido analizar las ventas de videojuegos según su género, plataforma y región. La idea es utilizar esos datos para ayudar a una empresa a decidir qué propuestas de videojuegos le interesa estudiar y en qué plataformas puede tener más sentido publicarlas.
 
-Además de comparar las ventas de juegos ya publicados, el proyecto se centra en una pregunta concreta: **¿cuántas copias podría vender aproximadamente un videojuego según sus características?** La respuesta será una estimación de ventas mundiales, no una garantía. Así, una empresa podrá comparar varias propuestas y ordenar las que tengan mejores previsiones, en lugar de limitarse a decir si un juego supera o no una cantidad fija de ventas.
+Además de comparar las ventas de juegos ya publicados, el proyecto se centra en una pregunta concreta: **¿cuántas copias podría vender aproximadamente un videojuego según sus características?** La respuesta será una estimación de ventas mundiales, no una garantía. Así, una empresa podrá comparar varias propuestas, ordenarlas según sus ventas estimadas y dar prioridad a las que tengan mayor potencial comercial.
 
 ## 2. Base de datos elegida
 
